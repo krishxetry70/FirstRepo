@@ -1,0 +1,2 @@
+# FirstRepo
+setting up git
